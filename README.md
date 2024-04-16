@@ -1,15 +1,13 @@
-# CZone
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
 
 ## About the Application
 
-CZone is a simple web application built with angular to demonstrate proficiency with core angular concepts like component-based architecture, directives, content projection, services, routing, forms, validation, dependency injection, as well as frontend application performance, accessibility, and security. 
-CZone features authentication, role management, API integration, UI responsivness etc. It includes a modules where authenticated users can access information about countries as well as performing update and delete actions with the countries data.
+This is a simple web application built with angular to demonstrate proficiency with core angular concepts like component-based architecture, directives, content projection, services, routing, forms, validation, dependency injection, as well as frontend application performance, accessibility, and security. 
+It features authentication, role management, API integration, UI responsivness etc. It includes a modules where authenticated users can access information about countries as well as performing update and delete actions with the countries data.
 
 ## Login
 
-Czone uses hardcoded login details to demonstrate authentication
+It uses hardcoded login details to demonstrate authentication
 Details below:
 
 Email: admin.user@yopmail.com
@@ -26,20 +24,20 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository.
 ```bash
-git clone https://github.com/Precious-Usanga/c-zone.git
-
+git clone https://github.com/iAmCodeHead/maGilla-assessment.git
+```
 2. Navigate to the project directory.
 ```bash
-cd c-zone
-
+cd maGilla-assessment
+```
 3. Install dependencies.
 ```bash
 npm install
-
+```
 4. Start the development server
 ```bash
 ng serve
-
+```
 Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files.
 
 
